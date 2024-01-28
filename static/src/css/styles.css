@@ -1,0 +1,60 @@
+.custom-heading {
+  font-size: 3vh; 
+}
+
+.custom-content {
+  text-align: center;
+  font-size: 3vh;
+  margin-top: 100px;
+}
+
+.custom-content h2 {
+  height: 10vh;
+  
+}
+
+.custom-paragraph {
+  font-size: 30px; 
+}
+
+.custom-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin: 10px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #ffffff;
+  margin-top: 70px; 
+}
+
+body {
+  overflow: hidden;
+}
+
+form {
+  margin-top: 70px; 
+}
+
+.form-row input {
+  width: 30%;
+  margin: 10px auto;
+}
+
+.table-dark thead {
+  background-color: #343a40; 
+  color: #ffffff; 
+}
+
+.table-dark tbody tr:nth-child(odd) {
+  background-color: #495057; 
+  color: #ffffff;
+}
+
+.table-dark tbody tr:nth-child(even) {
+  background-color: #6c757d; 
+  color: #ffffff; 
+}
+.custom-table {
+  margin-top: 70px; 
+}
