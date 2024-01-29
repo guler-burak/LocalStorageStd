@@ -58,3 +58,12 @@ form {
 .custom-table {
   margin-top: 70px; 
 }
+
+#liste {
+  text-align: center;
+}
+
+#liste th,
+#liste td {
+  vertical-align: middle;
+}
